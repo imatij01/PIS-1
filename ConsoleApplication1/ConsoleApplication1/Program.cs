@@ -18,5 +18,8 @@ namespace ConsoleApplication1
         { 
 
         }
+
+        public static void test2()
+        {}
     }
 }
