@@ -13,5 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello World");
             Console.WriteLine("Nemas pojma!!!");
         }
+        
+        public static void test2()
+        {}
     }
 }
